@@ -1,0 +1,7 @@
+.area-trabalho {
+    height: calc(100% - var(--barra-tarefas-altura));
+    background: url('../assets/background.png');
+    background-position: center;
+    background-size: cover;
+    
+}

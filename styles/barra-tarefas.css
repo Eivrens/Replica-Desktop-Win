@@ -1,0 +1,22 @@
+.barra-tarefas {
+    height: var(--barra-tarefas-altura);
+    background-color: #03132a;
+    box-shadow: 0 -1px 5px rgba(128, 128, 255, 0.2);
+    display: flex;    
+    justify-content: space-between;
+}
+
+.barra-tarefas_grupo-esquerdo {
+    display: flex;
+    align-items: center;
+    
+}
+
+.barra-tarefas_icone {
+    height: 40px;
+}
+
+.barra-tarefas_grupo-direito {
+    display: flex;
+    align-items: center;
+}
